@@ -1,0 +1,3 @@
+[submodule "connectlife-api-connector"]
+	path = connectlife-api-connector
+	url = https://github.com/Bilan/connectlife-api-connector
